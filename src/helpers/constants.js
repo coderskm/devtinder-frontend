@@ -1,2 +1,1 @@
-// export const BASEURL = "http://localhost:3000";
-export const BASEURL = "/api";
+ export const BASEURL = location.hostname==="localhost"? "http://localhost:3000":"/api";
