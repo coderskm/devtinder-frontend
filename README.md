@@ -1,3 +1,1 @@
-# DevTinder
-
-## installation
+# DevTinder Frontend Part
